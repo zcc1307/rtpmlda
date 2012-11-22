@@ -1,0 +1,254 @@
+>> voc{I(1:10,1)}
+
+ans =
+
+pressur
+
+
+ans =
+
+jet
+
+
+ans =
+
+number
+
+
+ans =
+
+mach
+
+
+ans =
+
+flow
+
+
+ans =
+
+effect
+
+
+ans =
+
+wing
+
+
+ans =
+
+theori
+
+
+ans =
+
+superson
+
+
+ans =
+
+base
+
+>> voc{I(1:10,2)}
+
+ans =
+
+librari
+
+
+ans =
+
+catalog
+
+
+ans =
+
+search
+
+
+ans =
+
+system
+
+
+ans =
+
+data
+
+
+ans =
+
+serial
+
+
+ans =
+
+index
+
+
+ans =
+
+inform
+
+
+ans =
+
+titl
+
+
+ans =
+
+retriev
+
+>> voc{I(1:10,3)}
+
+ans =
+
+heat
+
+
+ans =
+
+transfer
+
+
+ans =
+
+flow
+
+
+ans =
+
+temperatur
+
+
+ans =
+
+layer
+
+
+ans =
+
+boundari
+
+
+ans =
+
+number
+
+
+ans =
+
+solut
+
+
+ans =
+
+effect
+
+
+ans =
+
+laminar
+
+>> voc{I(1:10,4)}
+
+ans =
+
+growth
+
+
+ans =
+
+hormon
+
+
+ans =
+
+effect
+
+
+ans =
+
+rat
+
+
+ans =
+
+patient
+
+
+ans =
+
+inform
+
+
+ans =
+
+increas
+
+
+ans =
+
+acid
+
+
+ans =
+
+level
+
+
+ans =
+
+function
+
+>> voc{I(1:10,5)}
+
+ans =
+
+shock
+
+
+ans =
+
+wave
+
+
+ans =
+
+flow
+
+
+ans =
+
+boundari
+
+
+ans =
+
+layer
+
+
+ans =
+
+pressur
+
+
+ans =
+
+effect
+
+
+ans =
+
+number
+
+
+ans =
+
+result
+
+
+ans =
+
+mach

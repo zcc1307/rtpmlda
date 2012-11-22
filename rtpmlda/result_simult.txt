@@ -1,0 +1,509 @@
+>> voc{I(1:10,1)}
+
+ans =
+
+journal
+
+
+ans =
+
+index
+
+
+ans =
+
+citat
+
+
+ans =
+
+inform
+
+
+ans =
+
+librari
+
+
+ans =
+
+articl
+
+
+ans =
+
+scienc
+
+
+ans =
+
+scientif
+
+
+ans =
+
+literatur
+
+
+ans =
+
+paper
+
+>> voc{I(1:10,2)}
+
+ans =
+
+inform
+
+
+ans =
+
+data
+
+
+ans =
+
+base
+
+
+ans =
+
+search
+
+
+ans =
+
+system
+
+
+ans =
+
+servic
+
+
+ans =
+
+librari
+
+
+ans =
+
+comput
+
+
+ans =
+
+retriev
+
+
+ans =
+
+chemic
+
+>> voc{I(1:10,3)}
+
+ans =
+
+boundari
+
+
+ans =
+
+layer
+
+
+ans =
+
+flow
+
+
+ans =
+
+laminar
+
+
+ans =
+
+solut
+
+
+ans =
+
+effect
+
+
+ans =
+
+equat
+
+
+ans =
+
+number
+
+
+ans =
+
+plate
+
+
+ans =
+
+heat
+
+>> voc{I(1:10,4)}
+
+ans =
+
+pressur
+
+
+ans =
+
+jet
+
+
+ans =
+
+effect
+
+
+ans =
+
+number
+
+
+ans =
+
+flow
+
+
+ans =
+
+mach
+
+
+ans =
+
+result
+
+
+ans =
+
+wing
+
+
+ans =
+
+distribut
+
+
+ans =
+
+superson
+
+>> voc{I(1:10,5)}
+
+ans =
+
+buckl
+
+
+ans =
+
+cylinder
+
+
+ans =
+
+shell
+
+
+ans =
+
+pressur
+
+
+ans =
+
+compress
+
+
+ans =
+
+load
+
+
+ans =
+
+circular
+
+
+ans =
+
+stress
+
+
+ans =
+
+axial
+
+
+ans =
+
+stiffen
+
+>> voc{I(1:10,6)}
+
+ans =
+
+plate
+
+
+ans =
+
+flow
+
+
+ans =
+
+problem
+
+
+ans =
+
+solut
+
+
+ans =
+
+case
+
+
+ans =
+
+field
+
+
+ans =
+
+fluid
+
+
+ans =
+
+edg
+
+
+ans =
+
+shear
+
+
+ans =
+
+present
+
+>> voc{I(1:10,7)}
+
+ans =
+
+wing
+
+
+ans =
+
+flow
+
+
+ans =
+
+theori
+
+
+ans =
+
+lift
+
+
+ans =
+
+distribut
+
+
+ans =
+
+bodi
+
+
+ans =
+
+pressur
+
+
+ans =
+
+number
+
+
+ans =
+
+superson
+
+
+ans =
+
+calcul
+
+>> voc{I(1:10,8)}
+
+ans =
+
+heat
+
+
+ans =
+
+transfer
+
+
+ans =
+
+temperatur
+
+
+ans =
+
+flow
+
+
+ans =
+
+method
+
+
+ans =
+
+surfac
+
+
+ans =
+
+number
+
+
+ans =
+
+rate
+
+
+ans =
+
+effect
+
+
+ans =
+
+layer
+
+>> voc{I(1:10,9)}
+
+ans =
+
+cell
+
+
+ans =
+
+studi
+
+
+ans =
+
+marrow
+
+
+ans =
+
+bone
+
+
+ans =
+
+catalog
+
+
+ans =
+
+cultur
+
+
+ans =
+
+result
+
+
+ans =
+
+tumor
+
+
+ans =
+
+normal
+
+
+ans =
+
+found
+
+>> voc{I(1:10,10)}
+
+ans =
+
+theori
+
+
+ans =
+
+creep
+
+
+ans =
+
+buckl
+
+
+ans =
+
+column
+
+
+ans =
+
+result
+
+
+ans =
+
+tube
+
+
+ans =
+
+problem
+
+
+ans =
+
+effect
+
+
+ans =
+
+flow
+
+
+ans =
+
+shell
