@@ -1,38 +1,13 @@
-%-------------------------
-%if we deal with data.mat:
-%load('data.mat')
-%-------------------------
+function moments = constructMoments(input_args)
 
-%-------------------------
-%if we deal with 20 newsgroups dataset:
-% load train.data
-% trainX_ = spconvert(train);
-% [Docs, ~] = size(trainX_);
-% trainX_ = trainX_(:,1:5000);
-% randsel = randsample(1:Docs,5000,false,[]);
-% trainX = trainX_(randsel,:);
-% trainX = trainX(sum(trainX,2)>=3, :);
-%-------------------------
+trainX = input_args.trainX;
+alpha_0 = input_args.alpha_0;
+k = input_args.k;
+k2 = input_args.k2;
+voc = input_args.voc;
 
-f = fopen('classic4_terms.txt');
-voc = textscan(f,'%s');
-voc = voc{1};
-
-load('classic4_docbyterm.txt');
-trainX = spconvert(classic4_docbyterm);
-trainX = trainX(3205:7095,:);
-
-
-%[Docs, Vocs] = size(trainX);
-%randsel = randsample(1:Docs,3000,false,[]);
-%trainX = trainX(randsel,:);
-trainX = trainX(sum(trainX,2)>=3, :);
+trainX = trainX(sum(trainX,2)>=20, :);
 [Docs, Vocs] = size(trainX);
-alpha_0 = 0.1469;
-k = 30;
-k2 = 50;
-
-
 V_abs = sum(trainX,2);
 mu = zeros(1,Vocs);
 for i = 1:Docs
@@ -91,4 +66,14 @@ WPW = W' * Pairs * W;
 % end
 % WPW = WPW / Docs;
 % WPW = WPW - alpha_0 / (alpha_0 + 1) * (W' * mu) * (mu' * W);
+moments = [];
+moments.W = W;
+moments.trainX = trainX;
+moments.voc = voc;
+moments.mu = mu;
+moments.WPW = WPW;
+moments.Pairs = Pairs;
+
+end
+
 

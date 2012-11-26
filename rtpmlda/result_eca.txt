@@ -1,0 +1,1529 @@
+>> voc{I(1:10,1)}
+
+ans =
+
+growth
+
+
+ans =
+
+hormon
+
+
+ans =
+
+increas
+
+
+ans =
+
+rat
+
+
+ans =
+
+effect
+
+
+ans =
+
+studi
+
+
+ans =
+
+kidnei
+
+
+ans =
+
+blood
+
+
+ans =
+
+dai
+
+
+ans =
+
+rate
+
+>> voc{I(1:10,2)}
+
+ans =
+
+boundari
+
+
+ans =
+
+layer
+
+
+ans =
+
+flow
+
+
+ans =
+
+number
+
+
+ans =
+
+effect
+
+
+ans =
+
+solut
+
+
+ans =
+
+laminar
+
+
+ans =
+
+equat
+
+
+ans =
+
+pressur
+
+
+ans =
+
+result
+
+>> voc{I(1:10,3)}
+
+ans =
+
+number
+
+
+ans =
+
+mach
+
+
+ans =
+
+test
+
+
+ans =
+
+speed
+
+
+ans =
+
+superson
+
+
+ans =
+
+tunnel
+
+
+ans =
+
+wing
+
+
+ans =
+
+measur
+
+
+ans =
+
+shock
+
+
+ans =
+
+pressur
+
+>> voc{I(1:10,4)}
+
+ans =
+
+shock
+
+
+ans =
+
+wave
+
+
+ans =
+
+tube
+
+
+ans =
+
+mach
+
+
+ans =
+
+cell
+
+
+ans =
+
+high
+
+
+ans =
+
+superson
+
+
+ans =
+
+normal
+
+
+ans =
+
+separ
+
+
+ans =
+
+pressur
+
+>> voc{I(1:10,5)}
+
+ans =
+
+cell
+
+
+ans =
+
+equat
+
+
+ans =
+
+studi
+
+
+ans =
+
+marrow
+
+
+ans =
+
+bone
+
+
+ans =
+
+shell
+
+
+ans =
+
+system
+
+
+ans =
+
+method
+
+
+ans =
+
+wave
+
+
+ans =
+
+cultur
+
+>> voc{I(1:10,6)}
+
+ans =
+
+cell
+
+
+ans =
+
+base
+
+
+ans =
+
+data
+
+
+ans =
+
+effect
+
+
+ans =
+
+jet
+
+
+ans =
+
+number
+
+
+ans =
+
+studi
+
+
+ans =
+
+journal
+
+
+ans =
+
+mach
+
+
+ans =
+
+pressur
+
+>> voc{I(1:10,7)}
+
+ans =
+
+cell
+
+
+ans =
+
+studi
+
+
+ans =
+
+panel
+
+
+ans =
+
+flutter
+
+
+ans =
+
+pressur
+
+
+ans =
+
+normal
+
+
+ans =
+
+blood
+
+
+ans =
+
+antigen
+
+
+ans =
+
+activ
+
+
+ans =
+
+protein
+
+>> voc{I(1:10,8)}
+
+ans =
+
+number
+
+
+ans =
+
+jet
+
+
+ans =
+
+pressur
+
+
+ans =
+
+mach
+
+
+ans =
+
+distribut
+
+
+ans =
+
+solut
+
+
+ans =
+
+reynold
+
+
+ans =
+
+wing
+
+
+ans =
+
+theori
+
+
+ans =
+
+effect
+
+>> voc{I(1:10,9)}
+
+ans =
+
+method
+
+
+ans =
+
+inform
+
+
+ans =
+
+system
+
+
+ans =
+
+data
+
+
+ans =
+
+problem
+
+
+ans =
+
+index
+
+
+ans =
+
+journal
+
+
+ans =
+
+develop
+
+
+ans =
+
+retriev
+
+
+ans =
+
+search
+
+>> voc{I(1:10,10)}
+
+ans =
+
+patient
+
+
+ans =
+
+group
+
+
+ans =
+
+cancer
+
+
+ans =
+
+method
+
+
+ans =
+
+case
+
+
+ans =
+
+studi
+
+
+ans =
+
+level
+
+
+ans =
+
+librari
+
+
+ans =
+
+index
+
+
+ans =
+
+diseas
+
+>> voc{I(1:10,11)}
+
+ans =
+
+index
+
+
+ans =
+
+search
+
+
+ans =
+
+inform
+
+
+ans =
+
+system
+
+
+ans =
+
+flow
+
+
+ans =
+
+retriev
+
+
+ans =
+
+base
+
+
+ans =
+
+comput
+
+
+ans =
+
+data
+
+
+ans =
+
+term
+
+>> voc{I(1:10,12)}
+
+ans =
+
+pressur
+
+
+ans =
+
+journal
+
+
+ans =
+
+flow
+
+
+ans =
+
+distribut
+
+
+ans =
+
+cylinder
+
+
+ans =
+
+data
+
+
+ans =
+
+buckl
+
+
+ans =
+
+index
+
+
+ans =
+
+base
+
+
+ans =
+
+plate
+
+>> voc{I(1:10,13)}
+
+ans =
+
+inform
+
+
+ans =
+
+system
+
+
+ans =
+
+scienc
+
+
+ans =
+
+scientif
+
+
+ans =
+
+commun
+
+
+ans =
+
+theori
+
+
+ans =
+
+research
+
+
+ans =
+
+retriev
+
+
+ans =
+
+develop
+
+
+ans =
+
+servic
+
+>> voc{I(1:10,14)}
+
+ans =
+
+case
+
+
+ans =
+
+measur
+
+
+ans =
+
+journal
+
+
+ans =
+
+literatur
+
+
+ans =
+
+inform
+
+
+ans =
+
+report
+
+
+ans =
+
+system
+
+
+ans =
+
+analysi
+
+
+ans =
+
+model
+
+
+ans =
+
+index
+
+>> voc{I(1:10,15)}
+
+ans =
+
+pressur
+
+
+ans =
+
+shell
+
+
+ans =
+
+cylinder
+
+
+ans =
+
+buckl
+
+
+ans =
+
+circular
+
+
+ans =
+
+axial
+
+
+ans =
+
+cylindric
+
+
+ans =
+
+bodi
+
+
+ans =
+
+theori
+
+
+ans =
+
+thin
+
+>> voc{I(1:10,16)}
+
+ans =
+
+librari
+
+
+ans =
+
+index
+
+
+ans =
+
+acid
+
+
+ans =
+
+system
+
+
+ans =
+
+increas
+
+
+ans =
+
+term
+
+
+ans =
+
+retriev
+
+
+ans =
+
+languag
+
+
+ans =
+
+dna
+
+
+ans =
+
+network
+
+>> voc{I(1:10,17)}
+
+ans =
+
+system
+
+
+ans =
+
+search
+
+
+ans =
+
+wing
+
+
+ans =
+
+retriev
+
+
+ans =
+
+inform
+
+
+ans =
+
+user
+
+
+ans =
+
+lift
+
+
+ans =
+
+term
+
+
+ans =
+
+index
+
+
+ans =
+
+perform
+
+>> voc{I(1:10,18)}
+
+ans =
+
+system
+
+
+ans =
+
+pressur
+
+
+ans =
+
+librari
+
+
+ans =
+
+theori
+
+
+ans =
+
+catalog
+
+
+ans =
+
+journal
+
+
+ans =
+
+cell
+
+
+ans =
+
+studi
+
+
+ans =
+
+serial
+
+
+ans =
+
+jet
+
+>> voc{I(1:10,19)}
+
+ans =
+
+wing
+
+
+ans =
+
+cylinder
+
+
+ans =
+
+serial
+
+
+ans =
+
+ratio
+
+
+ans =
+
+load
+
+
+ans =
+
+lift
+
+
+ans =
+
+method
+
+
+ans =
+
+distribut
+
+
+ans =
+
+pressur
+
+
+ans =
+
+circular
+
+>> voc{I(1:10,20)}
+
+ans =
+
+librari
+
+
+ans =
+
+book
+
+
+ans =
+
+univers
+
+
+ans =
+
+librarian
+
+
+ans =
+
+research
+
+
+ans =
+
+servic
+
+
+ans =
+
+catalog
+
+
+ans =
+
+academ
+
+
+ans =
+
+subject
+
+
+ans =
+
+circul
+
+>> voc{I(1:10,21)}
+
+ans =
+
+buckl
+
+
+ans =
+
+theori
+
+
+ans =
+
+journal
+
+
+ans =
+
+index
+
+
+ans =
+
+effect
+
+
+ans =
+
+abstract
+
+
+ans =
+
+scienc
+
+
+ans =
+
+languag
+
+
+ans =
+
+cylinder
+
+
+ans =
+
+inform
+
+>> voc{I(1:10,22)}
+
+ans =
+
+inform
+
+
+ans =
+
+system
+
+
+ans =
+
+wing
+
+
+ans =
+
+case
+
+
+ans =
+
+theori
+
+
+ans =
+
+pressur
+
+
+ans =
+
+retriev
+
+
+ans =
+
+edg
+
+
+ans =
+
+flow
+
+
+ans =
+
+buckl
+
+>> voc{I(1:10,23)}
+
+ans =
+
+flow
+
+
+ans =
+
+bodi
+
+
+ans =
+
+heat
+
+
+ans =
+
+wing
+
+
+ans =
+
+temperatur
+
+
+ans =
+
+pressur
+
+
+ans =
+
+method
+
+
+ans =
+
+shock
+
+
+ans =
+
+transfer
+
+
+ans =
+
+calcul
+
+>> voc{I(1:10,24)}
+
+ans =
+
+system
+
+
+ans =
+
+index
+
+
+ans =
+
+heat
+
+
+ans =
+
+buckl
+
+
+ans =
+
+load
+
+
+ans =
+
+shell
+
+
+ans =
+
+transfer
+
+
+ans =
+
+creep
+
+
+ans =
+
+column
+
+
+ans =
+
+time
+
+>> voc{I(1:10,25)}
+
+ans =
+
+flow
+
+
+ans =
+
+bodi
+
+
+ans =
+
+wing
+
+
+ans =
+
+theori
+
+
+ans =
+
+superson
+
+
+ans =
+
+method
+
+
+ans =
+
+case
+
+
+ans =
+
+effect
+
+
+ans =
+
+pressur
+
+
+ans =
+
+present
+
+>> voc{I(1:10,26)}
+
+ans =
+
+index
+
+
+ans =
+
+catalog
+
+
+ans =
+
+inform
+
+
+ans =
+
+subject
+
+
+ans =
+
+comput
+
+
+ans =
+
+servic
+
+
+ans =
+
+method
+
+
+ans =
+
+pressur
+
+
+ans =
+
+retriev
+
+
+ans =
+
+chemic
+
+>> voc{I(1:10,27)}
+
+ans =
+
+buckl
+
+
+ans =
+
+wing
+
+
+ans =
+
+creep
+
+
+ans =
+
+cylinder
+
+
+ans =
+
+theori
+
+
+ans =
+
+load
+
+
+ans =
+
+column
+
+
+ans =
+
+bodi
+
+
+ans =
+
+librari
+
+
+ans =
+
+servic
+
+>> voc{I(1:10,28)}
+
+ans =
+
+heat
+
+
+ans =
+
+case
+
+
+ans =
+
+group
+
+
+ans =
+
+temperatur
+
+
+ans =
+
+patient
+
+
+ans =
+
+librari
+
+
+ans =
+
+children
+
+
+ans =
+
+transfer
+
+
+ans =
+
+time
+
+
+ans =
+
+blood
+
+>> voc{I(1:10,29)}
+
+ans =
+
+flow
+
+
+ans =
+
+heat
+
+
+ans =
+
+transfer
+
+
+ans =
+
+pressur
+
+
+ans =
+
+temperatur
+
+
+ans =
+
+effect
+
+
+ans =
+
+system
+
+
+ans =
+
+librari
+
+
+ans =
+
+case
+
+
+ans =
+
+cylinder
+
+>> voc{I(1:10,30)}
+
+ans =
+
+plate
+
+
+ans =
+
+load
+
+
+ans =
+
+buckl
+
+
+ans =
+
+analysi
+
+
+ans =
+
+stress
+
+
+ans =
+
+edg
+
+
+ans =
+
+problem
+
+
+ans =
+
+scientif
+
+
+ans =
+
+method
+
+
+ans =
+
+catalog

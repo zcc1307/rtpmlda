@@ -1,0 +1,499 @@
+>> voc(I(1:20,20))
+
+ans = 
+
+    'problem'
+    'window'
+    'drive'
+    'file'
+    'year'
+    'bit'
+    'color'
+    'program'
+    'monitor'
+    'scsi'
+    'system'
+    'comput'
+    'even'
+    'question'
+    'back'
+    'softwar'
+    'group'
+    'read'
+    'run'
+    'lib'
+
+>> voc(I(1:20,19))
+
+ans = 
+
+    'god'
+    'islam'
+    'christian'
+    'religion'
+    'law'
+    'into'
+    'such'
+    'thing'
+    'muslim'
+    'state'
+    'question'
+    'want'
+    'come'
+    'post'
+    'year'
+    'jew'
+    'true'
+    'file'
+    'anoth'
+    'jesu'
+
+>> voc(I(1:20,18))
+
+ans = 
+
+    'system'
+    'god'
+    'post'
+    'into'
+    'object'
+    'want'
+    'question'
+    'moral'
+    'such'
+    'thing'
+    'univers'
+    'christian'
+    'back'
+    'mean'
+    'exist'
+    'year'
+    'group'
+    'call'
+    'doesn'
+    'start'
+
+>> voc(I(1:20,17))
+
+ans = 
+
+    'problem'
+    'color'
+    'find'
+    'program'
+    'back'
+    'thing'
+    'question'
+    'want'
+    'sun'
+    'point'
+    'set'
+    'into'
+    'compil'
+    'bit'
+    'xterm'
+    'net'
+    'call'
+    'drive'
+    'comput'
+    'file'
+
+>> voc(I(1:20,16))
+
+ans = 
+
+    'mail'
+    'space'
+    'post'
+    'address'
+    'problem'
+    'univers'
+    'list'
+    'read'
+    'file'
+    'nasa'
+    'car'
+    'year'
+    'want'
+    'fax'
+    'inform'
+    'mean'
+    'drive'
+    'send'
+    'find'
+    'point'
+
+>> voc(I(1:20,15))
+
+ans = 
+
+    'line'
+    'window'
+    'want'
+    'problem'
+    'mail'
+    'question'
+    'call'
+    'find'
+    'file'
+    'program'
+    'number'
+    'point'
+    'post'
+    'run'
+    'email'
+    'plai'
+    'two'
+    'system'
+    'univers'
+    'manag'
+
+>> voc(I(1:20,14))
+
+ans = 
+
+    'window'
+    'mous'
+    'run'
+    'problem'
+    'do'
+    'program'
+    'system'
+    'year'
+    'mail'
+    'fax'
+    'kei'
+    'want'
+    'email'
+    'driver'
+    'control'
+    'keyboard'
+    'phone'
+    'file'
+    'sale'
+    'law'
+
+>> voc(I(1:20,13))
+
+ans = 
+
+    'drive'
+    'scsi'
+    'card'
+    'control'
+    'hard'
+    'problem'
+    'price'
+    'system'
+    'id'
+    'mac'
+    'info'
+    'sound'
+    'post'
+    'chip'
+    'do'
+    'disk'
+    'sale'
+    'gun'
+    'ibm'
+    'power'
+
+>> voc(I(1:20,12))
+
+ans = 
+
+    'game'
+    'team'
+    'run'
+    'window'
+    'year'
+    'into'
+    'two'
+    'card'
+    'plai'
+    'player'
+    'back'
+    'post'
+    'basebal'
+    'last'
+    'point'
+    'season'
+    'win'
+    'system'
+    'group'
+    'dai'
+
+>> voc(I(1:20,11))
+
+ans = 
+
+    'simm'
+    'year'
+    'two'
+    'drive'
+    'pin'
+    'line'
+    'want'
+    'question'
+    'post'
+    'space'
+    'system'
+    'window'
+    'control'
+    'god'
+    'etc'
+    'mail'
+    'mac'
+    'email'
+    'power'
+    'car'
+
+>> voc(I(1:20,10))
+
+ans = 
+
+    'car'
+    'problem'
+    'year'
+    'window'
+    'mail'
+    'into'
+    'call'
+    'dai'
+    'back'
+    'power'
+    'thing'
+    'opinion'
+    'game'
+    'want'
+    'run'
+    'bike'
+    'softwar'
+    'post'
+    'drive'
+    'even'
+
+>> voc(I(1:20,9))
+
+ans = 
+
+    'player'
+    'list'
+    'year'
+    'nhl'
+    'team'
+    'problem'
+    'post'
+    'game'
+    'plai'
+    'mail'
+    'anoth'
+    'back'
+    'system'
+    'stat'
+    'group'
+    'into'
+    'come'
+    'lot'
+    'basebal'
+    'gui'
+
+>> voc(I(1:20,8))
+
+ans = 
+
+    'god'
+    'christian'
+    'exist'
+    'jesu'
+    'thing'
+    'man'
+    'bibl'
+    'mean'
+    'question'
+    'call'
+    'peac'
+    'life'
+    'year'
+    'face'
+    'islam'
+    'such'
+    'word'
+    'come'
+    'true'
+    'read'
+
+>> voc(I(1:20,7))
+
+ans = 
+
+    'file'
+    'window'
+    'program'
+    'problem'
+    'read'
+    'format'
+    'want'
+    'imag'
+    'line'
+    'find'
+    'graphic'
+    'screen'
+    'manag'
+    'univers'
+    'mail'
+    'system'
+    'comput'
+    'post'
+    'ftp'
+    'such'
+
+>> voc(I(1:20,6))
+
+ans = 
+
+    'team'
+    'game'
+    'two'
+    'point'
+    'win'
+    'post'
+    'plai'
+    'record'
+    'year'
+    'breaker'
+    'tie'
+    'man'
+    'want'
+    'kei'
+    'list'
+    'card'
+    'mail'
+    'run'
+    'season'
+    'put'
+
+>> voc(I(1:20,5))
+
+ans = 
+
+    'kei'
+    'system'
+    'bit'
+    'run'
+    'secur'
+    'mail'
+    'encrypt'
+    'two'
+    'want'
+    'mous'
+    'net'
+    'window'
+    'access'
+    'disk'
+    'chip'
+    'comput'
+    'etc'
+    'each'
+    'object'
+    'back'
+
+>> voc(I(1:20,4))
+
+ans = 
+
+    'window'
+    'driver'
+    'color'
+    'card'
+    'problem'
+    'question'
+    'god'
+    'such'
+    'point'
+    'law'
+    'state'
+    'man'
+    'win'
+    'font'
+    'system'
+    'order'
+    'pictur'
+    'want'
+    'true'
+    'video'
+
+>> voc(I(1:20,3))
+
+ans = 
+
+    'control'
+    'gun'
+    'scsi'
+    'card'
+    'drive'
+    'line'
+    'system'
+    'two'
+    'want'
+    'id'
+    'email'
+    'standard'
+    'question'
+    'mac'
+    'law'
+    'into'
+    'problem'
+    'back'
+    'year'
+    'mail'
+
+>> voc(I(1:20,2))
+
+ans = 
+
+    'window'
+    'manag'
+    'program'
+    'file'
+    'run'
+    'system'
+    'do'
+    'mous'
+    'game'
+    'phone'
+    'user'
+    'applic'
+    'font'
+    'problem'
+    'driver'
+    'email'
+    'win'
+    'car'
+    'displai'
+    'want'
+
+>> voc(I(1:20,1))
+
+ans = 
+
+    'drive'
+    'disk'
+    'hard'
+    'scsi'
+    'floppi'
+    'question'
+    'do'
+    'mac'
+    'send'
+    'problem'
+    'cost'
+    'system'
+    'softwar'
+    'god'
+    'program'
+    'id'
+    'price'
+    'chip'
+    'thing'
+    'control'

@@ -1,0 +1,249 @@
+>> voc(I(1:20,10))
+
+ans = 
+
+    'index'
+    'data'
+    'test'
+    'languag'
+    'compress'
+    'chemic'
+    'search'
+    'code'
+    'group'
+    'servic'
+    'experi'
+    'acid'
+    'titl'
+    'concept'
+    'develop'
+    'serial'
+    'buckl'
+    'entri'
+    'base'
+    'experiment'
+
+>> voc(I(1:20,9))
+
+ans = 
+
+    'theori'
+    'number'
+    'heat'
+    'data'
+    'scienc'
+    'pressur'
+    'measur'
+    'result'
+    'test'
+    'structur'
+    'transfer'
+    'program'
+    'increas'
+    'point'
+    'cylinder'
+    'solut'
+    'obtain'
+    'reynold'
+    'studi'
+    'mach'
+
+>> voc(I(1:20,8))
+
+ans = 
+
+    'patient'
+    'case'
+    'cell'
+    'studi'
+    'flow'
+    'treatment'
+    'pressur'
+    'cancer'
+    'bodi'
+    'diseas'
+    'observ'
+    'effect'
+    'level'
+    'normal'
+    'superson'
+    'found'
+    'group'
+    'renal'
+    'growth'
+    'control'
+
+>> voc(I(1:20,7))
+
+ans = 
+
+    'method'
+    'solut'
+    'equat'
+    'flow'
+    'bodi'
+    'numer'
+    'approxim'
+    'function'
+    'distribut'
+    'boundari'
+    'theori'
+    'veloc'
+    'point'
+    'error'
+    'problem'
+    'differenti'
+    'index'
+    'heat'
+    'obtain'
+    'calcul'
+
+>> voc(I(1:20,6))
+
+ans = 
+
+    'system'
+    'structur'
+    'method'
+    'comput'
+    'flow'
+    'present'
+    'shock'
+    'gener'
+    'time'
+    'retriev'
+    'case'
+    'result'
+    'bodi'
+    'perform'
+    'model'
+    'term'
+    'search'
+    'oper'
+    'paper'
+    'effect'
+
+>> voc(I(1:20,5))
+
+ans = 
+
+    'method'
+    'flow'
+    'number'
+    'wing'
+    'result'
+    'pressur'
+    'algorithm'
+    'comput'
+    'problem'
+    'bodi'
+    'present'
+    'case'
+    'cylinder'
+    'effect'
+    'mach'
+    'approxim'
+    'equat'
+    'discuss'
+    'solut'
+    'superson'
+
+>> voc(I(1:20,4))
+
+ans = 
+
+    'librari'
+    'catalog'
+    'book'
+    'studi'
+    'research'
+    'develop'
+    'index'
+    'structur'
+    'univers'
+    'problem'
+    'model'
+    'cost'
+    'data'
+    'techniqu'
+    'refer'
+    'system'
+    'process'
+    'gener'
+    'search'
+    'measur'
+
+>> voc(I(1:20,3))
+
+ans = 
+
+    'program'
+    'system'
+    'languag'
+    'comput'
+    'algorithm'
+    'structur'
+    'problem'
+    'method'
+    'time'
+    'data'
+    'oper'
+    'process'
+    'techniqu'
+    'present'
+    'paper'
+    'discuss'
+    'gener'
+    'develop'
+    'design'
+    'index'
+
+>> voc(I(1:20,2))
+
+ans = 
+
+    'inform'
+    'system'
+    'data'
+    'retriev'
+    'servic'
+    'base'
+    'docum'
+    'search'
+    'problem'
+    'studi'
+    'time'
+    'scienc'
+    'result'
+    'analysi'
+    'comput'
+    'user'
+    'scientif'
+    'process'
+    'develop'
+    'librari'
+
+>> voc(I(1:20,1))
+
+ans = 
+
+    'flow'
+    'boundari'
+    'layer'
+    'heat'
+    'number'
+    'transfer'
+    'plate'
+    'solut'
+    'effect'
+    'pressur'
+    'shock'
+    'mach'
+    'problem'
+    'model'
+    'laminar'
+    'equat'
+    'distribut'
+    'temperatur'
+    'compress'
+    'data'

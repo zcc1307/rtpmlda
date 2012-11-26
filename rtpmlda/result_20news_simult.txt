@@ -1,0 +1,500 @@
+
+>> voc(I(1:20,1))
+
+ans = 
+
+    'window'
+    'manag'
+    'do'
+    'program'
+    'file'
+    'run'
+    'want'
+    'version'
+    'applic'
+    'disk'
+    'card'
+    'find'
+    'kei'
+    'accept'
+    'sound'
+    'mail'
+    'posit'
+    'figur'
+    'system'
+    'comput'
+
+>> voc(I(1:20,2))
+
+ans = 
+
+    'color'
+    'problem'
+    'cartridg'
+    'ink'
+    'drive'
+    'card'
+    'program'
+    'bit'
+    'video'
+    'question'
+    'encrypt'
+    'window'
+    'driver'
+    'jet'
+    'monitor'
+    'issu'
+    'print'
+    'sound'
+    'control'
+    'set'
+
+>> voc(I(1:20,3))
+
+ans = 
+
+    'drive'
+    'disk'
+    'hard'
+    'question'
+    'floppi'
+    'system'
+    'control'
+    'problem'
+    'thing'
+    'scsi'
+    'pin'
+    'two'
+    'into'
+    'id'
+    'file'
+    'advic'
+    'window'
+    'advanc'
+    'cabl'
+    'switch'
+
+>> voc(I(1:20,4))
+
+ans = 
+
+    'mail'
+    'list'
+    'org'
+    'card'
+    'address'
+    'post'
+    'system'
+    'sale'
+    'phone'
+    'rider'
+    'price'
+    'problem'
+    'game'
+    'video'
+    'end'
+    'softwar'
+    'drive'
+    'internet'
+    'name'
+    'ride'
+
+>> voc(I(1:20,5))
+
+ans = 
+
+    'god'
+    'christian'
+    'moral'
+    'object'
+    'kei'
+    'question'
+    'mean'
+    'thing'
+    'bit'
+    'program'
+    'start'
+    'post'
+    'exist'
+    'univers'
+    'call'
+    'point'
+    'read'
+    'jesu'
+    'atheist'
+    'man'
+
+>> voc(I(1:20,6))
+
+ans = 
+
+    'kei'
+    'chip'
+    'encrypt'
+    'system'
+    'end'
+    'clipper'
+    'secur'
+    'come'
+    'two'
+    'public'
+    'govern'
+    'escrow'
+    'run'
+    'mean'
+    'bit'
+    'algorithm'
+    'car'
+    'find'
+    'even'
+    'oil'
+
+>> voc(I(1:20,7))
+
+ans = 
+
+    'game'
+    'chip'
+    'scsi'
+    'team'
+    'problem'
+    'two'
+    'run'
+    'drive'
+    'year'
+    'card'
+    'program'
+    'even'
+    'mark'
+    'comput'
+    'upgrad'
+    'car'
+    'sound'
+    'control'
+    'into'
+    'mhz'
+
+>> voc(I(1:20,8))
+
+ans = 
+
+    'scsi'
+    'drive'
+    'problem'
+    'control'
+    'moral'
+    'mac'
+    'id'
+    'bike'
+    'speed'
+    'bit'
+    'exist'
+    'object'
+    'honda'
+    'richard'
+    'center'
+    'question'
+    'softwar'
+    'price'
+    'lock'
+    'batteri'
+
+>> voc(I(1:20,9))
+
+ans = 
+
+    'problem'
+    'window'
+    'system'
+    'monitor'
+    'file'
+    'do'
+    'mail'
+    'year'
+    'appl'
+    'speed'
+    'machin'
+    'drive'
+    'simm'
+    'program'
+    'softwar'
+    'post'
+    'run'
+    'question'
+    'call'
+    'data'
+
+>> voc(I(1:20,10))
+
+ans = 
+
+    'year'
+    'ticket'
+    'sale'
+    'car'
+    'number'
+    'call'
+    'phone'
+    'mail'
+    'problem'
+    'post'
+    'offer'
+    'find'
+    'even'
+    'dai'
+    'softwar'
+    'state'
+    'interest'
+    'file'
+    'start'
+    'case'
+
+>> voc(I(1:20,11))
+
+ans = 
+
+    'control'
+    'system'
+    'year'
+    'problem'
+    'thing'
+    'read'
+    'post'
+    'drive'
+    'program'
+    'book'
+    'mail'
+    'into'
+    'such'
+    'run'
+    'person'
+    'code'
+    'set'
+    'want'
+    'group'
+    'card'
+
+>> voc(I(1:20,12))
+
+ans = 
+
+    'player'
+    'into'
+    'year'
+    'chip'
+    'come'
+    'plai'
+    'interest'
+    'name'
+    'want'
+    'run'
+    'car'
+    'program'
+    'end'
+    'two'
+    'larg'
+    'technolog'
+    'point'
+    'wonder'
+    'basebal'
+    'stat'
+
+>> voc(I(1:20,13))
+
+ans = 
+
+    'file'
+    'window'
+    'address'
+    'question'
+    'read'
+    'object'
+    'thing'
+    'uiuc'
+    'data'
+    'want'
+    'send'
+    'moral'
+    'post'
+    'electron'
+    'answer'
+    'opinion'
+    'disk'
+    'port'
+    'group'
+    'do'
+
+>> voc(I(1:20,14))
+
+ans = 
+
+    'car'
+    'year'
+    'thing'
+    'even'
+    'into'
+    'kei'
+    'govern'
+    'anoth'
+    'reason'
+    'kill'
+    'driver'
+    'islam'
+    'object'
+    'back'
+    'countri'
+    'price'
+    'state'
+    'part'
+    'christian'
+    'dai'
+
+>> voc(I(1:20,15))
+
+ans = 
+
+    'card'
+    'car'
+    'driver'
+    'window'
+    'graphic'
+    'font'
+    'video'
+    'color'
+    'program'
+    'price'
+    'drive'
+    'tiff'
+    'imag'
+    'mode'
+    'buffalo'
+    'upgrad'
+    'mail'
+    'instal'
+    'vga'
+    'pitt'
+
+>> voc(I(1:20,16))
+
+ans = 
+
+    'program'
+    'sale'
+    'bike'
+    'do'
+    'upgrad'
+    'two'
+    'opinion'
+    'price'
+    'chip'
+    'object'
+    'tax'
+    'disk'
+    'sound'
+    'moral'
+    'record'
+    'start'
+    'breaker'
+    'organ'
+    'tie'
+    'sy'
+
+>> voc(I(1:20,17))
+
+ans = 
+
+    'file'
+    'sound'
+    'window'
+    'video'
+    'card'
+    'problem'
+    'color'
+    'do'
+    'mac'
+    'monitor'
+    'disk'
+    'drive'
+    'softwar'
+    'appl'
+    'format'
+    'inform'
+    'info'
+    'system'
+    'idea'
+    'vga'
+
+>> voc(I(1:20,18))
+
+ans = 
+
+    'window'
+    'file'
+    'system'
+    'card'
+    'version'
+    'sun'
+    'program'
+    'run'
+    'do'
+    'ini'
+    'bike'
+    'disk'
+    'trade'
+    'softwar'
+    'applic'
+    'board'
+    'wave'
+    'motif'
+    'unix'
+    'mark'
+
+>> voc(I(1:20,19))
+
+ans = 
+
+    'christian'
+    'driver'
+    'dai'
+    'point'
+    'problem'
+    'drive'
+    'bike'
+    'want'
+    'law'
+    'into'
+    'post'
+    'kei'
+    'card'
+    'lock'
+    'call'
+    'religion'
+    'even'
+    'never'
+    'such'
+    'mark'
+
+>> voc(I(1:20,20))
+
+ans = 
+
+    'window'
+    'system'
+    'do'
+    'card'
+    'screen'
+    'driver'
+    'program'
+    'disk'
+    'moral'
+    'problem'
+    'opinion'
+    'mail'
+    'interest'
+    'version'
+    'code'
+    'machin'
+    'softwar'
+    'file'
+    'internet'
+    'control'

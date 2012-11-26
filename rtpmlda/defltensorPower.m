@@ -1,12 +1,21 @@
-k = 30;
-L = 5;
-N = 5;
-s = 5;
-n_deflated = 0;
-v_deflated = zeros(k,s);
-lambda_deflated = zeros(1,s);
+function O = defltensorPower(moments, input_args)
 
-for t = 1:s
+k = input_args.k;
+trainX = input_args.trainX;
+W = moments.W;
+mu = moments.mu;
+alpha_0 = input_args.alpha_0;
+trainX = trainX(sum(trainX,2)>=20, :);
+[Docs, Vocs] = size(trainX);
+
+
+L = 5;
+N = 10;
+n_deflated = 0;
+v_deflated = zeros(k,k);
+lambda_deflated = zeros(1,k);
+
+for t = 1:k
     theta_max = [];
     lambda_max = 0;
     for trials = 1:L
@@ -58,7 +67,9 @@ for t = 1:s
     v_deflated(:,n_deflated) = theta_max;
 end
 
-O = zeros(Vocs,s);
-for t = 1:s
+O = zeros(Vocs,k);
+for t = 1:k
     O(:,t) = pinv(W)' * v_deflated(:,t);
+end
+
 end
